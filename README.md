@@ -10,4 +10,4 @@ Demonstrar o uso de RMI em Java para comunicação entre objetos remotos, aplica
 
 - Java 11+
 - RMI (Remote Method Invocation)
-- Terminal / IDE (IntelliJ, VSCode, Eclipse etc.)
+- IDE (IntelliJ)
