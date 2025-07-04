@@ -1,6 +1,6 @@
 # Trabalho 02 – Sistemas Distribuídos 💻☁️
 
-Este repositório contém a implementação de um sistema distribuído usando **RMI (Remote Method Invocation)**, desenvolvido como parte da disciplina de **Sistemas Distribuídos** na [nome da instituição, se quiser colocar].
+Este repositório contém a implementação de um sistema distribuído usando **RMI (Remote Method Invocation)**, desenvolvido como parte da disciplina de **Sistemas Distribuídos**.
 
 ## 📌 Objetivo
 
